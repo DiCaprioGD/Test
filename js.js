@@ -1,3 +1,3 @@
 window.addEventListener("load", function () {
-  alert("Loaded");
+  console.log("father");
 });

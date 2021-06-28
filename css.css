@@ -2,4 +2,5 @@
     width: 200px;
     height: 200px;
     background: #FF6700;
+    transition: all .5s;
 }
